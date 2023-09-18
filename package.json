@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "graceful-fs": "^4.2.4",
-    "retry": "^0.12.0",
+    "retry": "^0.13.1",
     "signal-exit": "^3.0.2"
   },
   "devDependencies": {
